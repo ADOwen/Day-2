@@ -1,0 +1,29 @@
+/** @format */
+
+.footer_articles {
+  height: 125px;
+  width: 190px;
+  margin-top: 15px;
+  font-size: 10px;
+  color: white;
+  background-color: black;
+  text-align: left;
+  position: relative;
+  left: 50px;
+  top: 40px;
+}
+
+.footer ul {
+  list-style-type: none;
+}
+
+.footer li {
+  padding: 5px;
+  padding-bottom: 10px;
+  position: relative;
+  right: 42px;
+}
+
+i {
+  color: orange;
+}

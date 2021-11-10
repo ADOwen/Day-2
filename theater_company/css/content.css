@@ -1,0 +1,40 @@
+/** @format */
+.date h3 {
+  text-indent: 40px;
+}
+
+.box {
+  height: 10rem;
+  width: 10;
+  margin-top: 10px;
+}
+
+.box1 img {
+  height: 140px;
+  width: 180px;
+}
+
+.box2 {
+  position: relative;
+  right: 20px;
+}
+.box2 ul {
+  list-style-type: none;
+  padding-left: 10px;
+}
+.box3 {
+  background-color: rgb(236, 171, 30);
+  border: 1px solid black;
+  text-align: center;
+  position: relative;
+  height: 25px;
+  padding: 10px;
+  left: 15px;
+  top: 50px;
+}
+
+.box3 a:any-link {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
